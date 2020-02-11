@@ -1,2 +1,2 @@
 FROM curlimages/curl
-RUN cd ~ && curl -LO https://github.com/NickeManarin/ScreenToGif/releases/download/2.19.3/ScreenToGif.2.19.3.Portable.zip
+RUN cd ~ && curl -LO https://github.com/stedolan/jq/releases/download/jq-1.5/jq-linux64
